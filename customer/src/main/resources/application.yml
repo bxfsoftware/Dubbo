@@ -1,0 +1,6 @@
+server:
+  port: 8089
+#ZooKeeper
+dubbo:
+  registry:
+    address: XX:2181
